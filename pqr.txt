@@ -1,0 +1,2 @@
+Overwriting content using w+ mode
+Appending new line using a+ mode
